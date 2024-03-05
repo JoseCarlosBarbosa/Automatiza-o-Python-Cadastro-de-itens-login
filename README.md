@@ -1,4 +1,6 @@
-Automação de Tarefas e Criação de Bots
+Automação de Tarefas e Criação de Bots.
+
+
 Esta aplicação é uma ferramenta de automação desenvolvida em Python, projetada para simplificar e agilizar processos repetitivos, como cadastros em sites e manipulação de dados.
 
 Pré-requisitos
